@@ -8,4 +8,5 @@
 - [1365 How Many Numbers](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 - [2181 Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
 - [1056 Confusing Number](https://leetcode.com/problems/confusing-number/)
+- [2574 Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)
 - [1472 Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
