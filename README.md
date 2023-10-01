@@ -14,3 +14,4 @@
 - [832 Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
 - [88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description)
 - [1302 Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
+- [2408 Design SQL](https://leetcode.com/problems/design-sql/description/)
