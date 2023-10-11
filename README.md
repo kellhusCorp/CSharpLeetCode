@@ -15,3 +15,4 @@
 - [88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description)
 - [1302 Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 - [2408 Design SQL](https://leetcode.com/problems/design-sql/description/)
+- [121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
