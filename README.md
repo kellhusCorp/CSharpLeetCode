@@ -19,3 +19,4 @@
 - [28 Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - [20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description)
 - [205 Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description)
+- [1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/description)
