@@ -22,3 +22,4 @@
 - [1427. Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/description)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 - [125. ValidPalindrome](https://leetcode.com/problems/valid-palindrome/description/)
+- [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
