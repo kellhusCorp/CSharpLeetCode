@@ -25,3 +25,4 @@
 - [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+- [66. Plus One](https://leetcode.com/problems/plus-one/)
