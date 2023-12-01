@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.github\workflows\actions.yml = .github\workflows\actions.yml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLeetCode.Shared", "CSharpLeetCode.Shared\CSharpLeetCode.Shared.csproj", "{C1FFAF54-8E1E-44D5-BB0A-802B114DD76D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{149E8C82-B1B1-4482-9E71-06A650DE76B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{149E8C82-B1B1-4482-9E71-06A650DE76B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{149E8C82-B1B1-4482-9E71-06A650DE76B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1FFAF54-8E1E-44D5-BB0A-802B114DD76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FFAF54-8E1E-44D5-BB0A-802B114DD76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FFAF54-8E1E-44D5-BB0A-802B114DD76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FFAF54-8E1E-44D5-BB0A-802B114DD76D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
