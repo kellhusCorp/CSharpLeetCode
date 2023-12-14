@@ -9,6 +9,8 @@ func Test_IsSubsequence392(t *testing.T) {
 	s := "abc"
 	testStr := "ahbgdc"
 	expected := true
+
 	actual := isSubsequence(s, testStr)
+
 	assert.Equal(t, expected, actual)
 }
