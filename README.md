@@ -30,3 +30,4 @@
 - [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [100. Same Tree](https://leetcode.com/problems/same-tree/)
+- [155. Min Stack](https://leetcode.com/problems/min-stack/)
