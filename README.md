@@ -32,3 +32,4 @@
 - [100. Same Tree](https://leetcode.com/problems/same-tree/)
 - [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+- [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
