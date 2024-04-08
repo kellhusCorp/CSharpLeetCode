@@ -35,3 +35,4 @@
 - [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 - [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [1086. High Five](https://leetcode.com/problems/high-five/description/)
