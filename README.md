@@ -37,3 +37,4 @@
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 - [1086. High Five](https://leetcode.com/problems/high-five/description/)
 - [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)
+- [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/)
