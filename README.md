@@ -39,3 +39,4 @@
 - [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)
 - [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/)
 - [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/)
+- [1429. First Unique Number](https://leetcode.com/problems/first-unique-number/)
