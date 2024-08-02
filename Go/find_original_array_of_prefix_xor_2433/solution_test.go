@@ -1,4 +1,4 @@
-package find_original_array_of_prefix_xor
+package find_original_array_of_prefix_xor_2433
 
 import (
 	"github.com/stretchr/testify/assert"
