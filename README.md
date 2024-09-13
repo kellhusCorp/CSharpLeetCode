@@ -41,3 +41,4 @@
 - [2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/)
 - [1429. First Unique Number](https://leetcode.com/problems/first-unique-number/)
 - [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+- [734. Sentence Similarity](https://leetcode.com/problems/sentence-similarity/description/)
